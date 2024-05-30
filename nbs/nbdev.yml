@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Nbdev_python"
+  site-url: "https://dianhn.github.io/Nbdev_python"
+  description: "Taller de python"
+  repo-branch: main
+  repo-url: "https://github.com/dianhn/Nbdev_python"
